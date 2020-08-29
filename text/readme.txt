@@ -1,0 +1,1 @@
+All text files will generate in this folder. Feel free to use them for programs like OBS.

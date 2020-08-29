@@ -1,5 +1,5 @@
 # Additional files
-*.txt
+info.txt
 maps.db
 .DS_Store
 
