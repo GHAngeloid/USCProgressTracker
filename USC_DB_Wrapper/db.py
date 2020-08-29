@@ -4,7 +4,7 @@ class DB:
 
     cursor = None
     def __init__(self):
-        self.__conn = sqlite3.connect('maps.db')
+        self.__conn = sqlite3.connect('../maps.db')
         self.__conn.row_factory = sqlite3.Row
         DB.cursor = self.__conn.cursor()
 

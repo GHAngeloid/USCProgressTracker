@@ -24,6 +24,6 @@ For example:
 
 # Notes
 
-Have maps.db in the same directory as project.
+Have project folder in same directiory as maps.db file.
 
 Project is still work-in-progress.
